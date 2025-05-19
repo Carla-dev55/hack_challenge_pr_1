@@ -1,4 +1,4 @@
-# hack_challenge_pr_1 ⚡
+# hack_pull_request_1 ⚡
 
 ### By Carlay Sivira (charlie) ⭐
 
